@@ -1,0 +1,40 @@
+ 
+
+
+
+.container-1{
+    
+    display:flex;
+    margin: 50px;
+    padding: 50px;
+    
+   
+}
+.first-img{
+    
+    
+   width: 20%;
+   
+}
+.red{
+    color: #FFAD5A;
+}
+.h1{
+    font-size: 50px;
+}
+.pragraph{
+    font-size: 20px;
+}
+          
+.btn-1{
+    width: 120px;
+    height:50px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #FF5959;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
