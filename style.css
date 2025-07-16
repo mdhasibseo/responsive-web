@@ -78,6 +78,7 @@
 
 @media screen and (max-width:576px) {
     .container-1{
+        width: 245px;
         display:flex;
         margin: 10px;
         padding: 0px;
@@ -102,8 +103,9 @@
    
 }
 .card-heading{
+    width: 130px;
     font-size: 15px;
-    margin-left: 14%;    
+    margin-left: 70px;    
 }
 .container-2{
    
@@ -118,7 +120,8 @@
    
     box-shadow: 10px 10px 20px #babecc,-10px -10px 20px #ffffff;
     border-radius:20px ;
-    margin: 20px;
+    margin-left: 30px;
+    margin-right: -10px;
     padding: 30px;
     background-color:#fad9d9 ;
 }
@@ -128,6 +131,15 @@
 }  
 .h3{
     font-size: 10px;
+}
+.second{
+    width: 250px;
+}
+main{
+    width: 280px;
+}
+html{
+    width: 280px;
 }
 
 }
