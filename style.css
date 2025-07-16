@@ -40,6 +40,42 @@
 }
 
 
+.card-img{
+    width: 141px;
+    height: 141px;
+}  
+.card-heading{
+    margin-left: 40%;    
+   
+
+}
+.container-2{
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+    justify-content: space-evenly;
+}
+.card{
+    box-shadow: 10px 10px 20px #babecc,-10px -10px 20px #ffffff;
+    border-radius:20px ;
+    margin: 20px;
+    padding: 30px;
+    background-color:#fad9d9 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width:576px) {
     .container-1{
         display:flex;
