@@ -99,7 +99,7 @@
 
    } 
    .circle-1{
-    margin-left: -230px;
+    margin-left: -300px;
    margin-top: 250px;
    height: 227px;
     width: 227px;
@@ -107,8 +107,8 @@
 .container-4{
     display: flex;
     justify-content: space-between;
-   margin: 50px;
-   padding: 30px;
+   margin: 30px;
+   padding: 0px;
 }
 
 
@@ -217,5 +217,26 @@ html{
     height: 20px;
     background-color: #FF5959;
     color: white;
+}
+.coding-1{
+     z-index: 1;
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+.circle-1{
+    margin-right:-10px ;
+    margin-bottom: -25px;
+   margin-top: 20px;
+   height: 100px;
+    width: 100px;
+ 
+ 
+}
+.container-4{
+    display: flex;
+    flex-wrap: wrap-reverse;
+   margin: 30px;
+   padding: 0px;
 }
 }
