@@ -280,16 +280,17 @@ html{
 }
 
 .circle-3{
-    margin-right: -90px;
+    margin-right: -100px;
     height: 100px;
     width: 100px;
-    margin-bottom: 400px;
+    margin-bottom: -90px;
     
 }
 .circle-4,.circle-5{
     height: 50px;
     width: 50px;
-
+   align-items: start;
+   
 }
 .corona{
     position: relative;
@@ -299,19 +300,28 @@ html{
 
 }
 .circle-4{
-  
-    margin-left: -170px;
+    margin-bottom: -150px;
+    margin-left: -10px;
+    
 }
 .circle-5{
-   
-    margin-left:80px ;
-    margin-bottom: 80px;
+  
+    margin-left:130px ;
+  
 }
 .container-5{
    
     margin: 10px;
     padding: 50px;
     display: flex;
+    flex-direction: column;
    
+}
+.pra-5{
+    margin-left: 30px;
+   margin-top: -50px;
+}
+.possible{
+    margin-top: -350px;
 }
 }
