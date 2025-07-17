@@ -148,10 +148,25 @@
 .pra-5{
     margin-left: 400px;
 }
+footer {
+  
+    height: 150px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+.footer{
+    padding-top: 20px;
+    margin-left: 50%;
+    margin-right: -50%;
+}
 
-
-
-
+.footer-1{
+    margin-left:40% ;
+    padding-top: 20px;
+  
+}
 
 
 
@@ -180,7 +195,7 @@
     background-color: #FF5959;
 }
 .first-img{
-    
+    margin-left: 15px;
     padding-left: 40px;
     padding-top: 30px;
     height: 80px;
@@ -323,5 +338,34 @@ html{
 }
 .possible{
     margin-top: -350px;
+}
+.card-heading-1{
+    width: 200px;
+    font-size: 15px;
+    margin-left: 60px;    
+}
+footer {
+  width: 275px;
+    height: 90px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+   
+}
+.footer{
+    font-size:15px ;
+    padding-top: px;
+    margin-left: 100px;
+    margin-right: -50%;
+}
+
+.footer-1{
+    padding-left: 30px;
+    font-size: 10px;
+  margin-left: -1px;
+  margin-top: -20px;
+   
+    
+  
 }
 }
