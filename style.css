@@ -62,8 +62,35 @@
     padding: 30px;
     background-color:#fad9d9 ;
 }
-
-
+.circle{
+   margin-top: 80px;
+   height: 227px;
+    width: 227px;
+ 
+ 
+}
+.coding{
+     z-index: 1;
+    width: 400px;
+    height: 400px;
+    margin-left: -114px;
+}
+.container-3{
+    display: flex;
+   margin: 50px;
+   padding: 30px;
+}
+.coding-pragraph{
+    margin-left: 100px;
+}
+.read{
+    border-radius: 5px;
+    width:200px ;
+    height: 48px;
+    background-color: #FF5959;
+    color: white;
+}
+    
 
 
 
