@@ -90,7 +90,26 @@
     background-color: #FF5959;
     color: white;
 }
+   .coding-1{
     
+     z-index: 1;
+    width: 400px;
+    height: 400px;
+    margin-right: -114px;
+
+   } 
+   .circle-1{
+    margin-left: -230px;
+   margin-top: 250px;
+   height: 227px;
+    width: 227px;
+}
+.container-4{
+    display: flex;
+    justify-content: space-between;
+   margin: 50px;
+   padding: 30px;
+}
 
 
 
@@ -188,7 +207,7 @@ html{
    padding: 10px;
 }
 .coding-pragraph{
-    margin-left: 10px;
+    margin-left: 30px;
 
 }
 .read{
